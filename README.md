@@ -8,6 +8,10 @@ an experimental gaming stuff for randomly generated field
 ## これはなにか？
 ランダムに生成されるフィールドにおいて、特筆性が高いパターン（qigan、“奇岩”）を発見し、そのレアリティにふさわしいスコアを得る。
 
+[Love2D](https://love2d.org/) ゲームエンジンを使用。記述言語はLua。
+
+I really thank to the Love2D community and the Lua language sphere!
+
 
 ## 実行するには？
 1. Love2Dをインストールする
